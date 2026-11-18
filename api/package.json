@@ -1,0 +1,13 @@
+
+{
+  "name": "wx-music-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@meting/core": "1.6.2",
+    "express": "^5.1.0"
+  }
+}
